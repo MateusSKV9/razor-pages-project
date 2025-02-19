@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "elxXU+XwoclXsDXHinALqAUg8xTTWuGtoUWaLw2+qs4=",
+  "Hash": "Fup/dHkV3nfKQM+iMkLCDA01xDE9HeHttokrsWGjcOA=",
   "Source": "razor-pages-project",
   "BasePath": "_content/razor-pages-project",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-6un8bgitbs.gz",
       "SourceId": "razor-pages-project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/razor-pages-project",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=6un8bgitbs}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "o7ip673bbt",
+      "Integrity": "dFovT8gTP9tPidyr2g0RPntfQSt9vX2BI51QHjY9LT4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\wwwroot\\css\\site.css"
@@ -899,12 +899,12 @@
       "OriginalItemSpec": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-u3455yo0md.gz",
+      "Identity": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-dacjab7oab.gz",
       "SourceId": "razor-pages-project",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/razor-pages-project",
-      "RelativePath": "razor-pages-project#[.{fingerprint=u3455yo0md}]!.bundle.scp.css.gz",
+      "RelativePath": "razor-pages-project#[.{fingerprint=dacjab7oab}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -913,8 +913,8 @@
       "RelatedAsset": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\razor-pages-project.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "591cbngpvk",
-      "Integrity": "p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=",
+      "Fingerprint": "wkym0w4wsh",
+      "Integrity": "kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\razor-pages-project.bundle.scp.css"
@@ -962,12 +962,12 @@
       "OriginalItemSpec": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-u3455yo0md.gz",
+      "Identity": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-dacjab7oab.gz",
       "SourceId": "razor-pages-project",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/razor-pages-project",
-      "RelativePath": "razor-pages-project#[.{fingerprint=u3455yo0md}]?.styles.css.gz",
+      "RelativePath": "razor-pages-project#[.{fingerprint=dacjab7oab}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -976,8 +976,8 @@
       "RelatedAsset": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\bundle\\razor-pages-project.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "591cbngpvk",
-      "Integrity": "p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=",
+      "Fingerprint": "wkym0w4wsh",
+      "Integrity": "kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\bundle\\razor-pages-project.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "u3455yo0md",
-      "Integrity": "9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=",
+      "Fingerprint": "dacjab7oab",
+      "Integrity": "C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\bundle\\razor-pages-project.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "u3455yo0md",
-      "Integrity": "9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=",
+      "Fingerprint": "dacjab7oab",
+      "Integrity": "C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\razor-pages-project.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "6un8bgitbs",
+      "Integrity": "rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-b9sayid5wm.gz",
+      "Route": "css/site.6un8bgitbs.css",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-6un8bgitbs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.007352941176"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "135"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"dFovT8gTP9tPidyr2g0RPntfQSt9vX2BI51QHjY9LT4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:05:56 GMT"
+          "Value": "Wed, 19 Feb 2025 22:46:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "6un8bgitbs"
         },
         {
           "Name": "label",
@@ -2786,12 +2786,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.6un8bgitbs.css",
       "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "151"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:05:56 GMT"
+          "Value": "Wed, 19 Feb 2025 22:46:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2823,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "6un8bgitbs"
         },
         {
           "Name": "label",
@@ -2831,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-b9sayid5wm.gz",
+      "Route": "css/site.6un8bgitbs.css.gz",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-6un8bgitbs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "135"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"dFovT8gTP9tPidyr2g0RPntfQSt9vX2BI51QHjY9LT4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:05:56 GMT"
+          "Value": "Wed, 19 Feb 2025 22:46:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "6un8bgitbs"
         },
         {
           "Name": "label",
@@ -2884,18 +2884,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-dFovT8gTP9tPidyr2g0RPntfQSt9vX2BI51QHjY9LT4="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-6un8bgitbs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.007352941176"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2905,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "135"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"dFovT8gTP9tPidyr2g0RPntfQSt9vX2BI51QHjY9LT4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:05:56 GMT"
+          "Value": "Wed, 19 Feb 2025 22:46:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2933,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o="
         }
       ]
     },
@@ -2954,7 +2954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "151"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +2962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:05:56 GMT"
+          "Value": "Wed, 19 Feb 2025 22:46:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +2976,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-rrUhBsdYIPRgAKJEMc6XRYCp55nP9GJV3McSqz2JP6o="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\47cb0wpdja-6un8bgitbs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "135"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +2999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"dFovT8gTP9tPidyr2g0RPntfQSt9vX2BI51QHjY9LT4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:05:56 GMT"
+          "Value": "Wed, 19 Feb 2025 22:46:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3021,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-dFovT8gTP9tPidyr2g0RPntfQSt9vX2BI51QHjY9LT4="
         }
       ]
     },
@@ -21287,12 +21287,12 @@
     },
     {
       "Route": "razor-pages-project.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-u3455yo0md.gz",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-dacjab7oab.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.005847953216"
         }
       ],
       "ResponseHeaders": [
@@ -21302,15 +21302,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "170"
         },
         {
           "Name": "ETag",
-          "Value": "\"p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=\""
+          "Value": "\"kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21330,13 +21330,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=\""
+          "Value": "W/\"C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c="
+          "Value": "sha256-C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE="
         }
       ]
     },
@@ -21351,7 +21351,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "212"
         },
         {
           "Name": "Content-Type",
@@ -21359,11 +21359,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=\""
+          "Value": "\"C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21373,13 +21373,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c="
+          "Value": "sha256-C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE="
         }
       ]
     },
     {
       "Route": "razor-pages-project.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-u3455yo0md.gz",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-dacjab7oab.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21388,7 +21388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "170"
         },
         {
           "Name": "Content-Type",
@@ -21396,11 +21396,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=\""
+          "Value": "\"kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21418,18 +21418,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg="
+          "Value": "sha256-kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E="
         }
       ]
     },
     {
-      "Route": "razor-pages-project.styles.css",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-u3455yo0md.gz",
+      "Route": "razor-pages-project.dacjab7oab.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-dacjab7oab.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.005847953216"
         }
       ],
       "ResponseHeaders": [
@@ -21439,152 +21439,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "170"
         },
         {
           "Name": "ETag",
-          "Value": "\"p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=\""
+          "Value": "\"kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c="
-        }
-      ]
-    },
-    {
-      "Route": "razor-pages-project.styles.css",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\bundle\\razor-pages-project.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c="
-        }
-      ]
-    },
-    {
-      "Route": "razor-pages-project.styles.css.gz",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-u3455yo0md.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg="
-        }
-      ]
-    },
-    {
-      "Route": "razor-pages-project.u3455yo0md.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-u3455yo0md.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001848428835"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21604,13 +21467,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=\""
+          "Value": "W/\"C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u3455yo0md"
+          "Value": "dacjab7oab"
         },
         {
           "Name": "label",
@@ -21618,12 +21481,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c="
+          "Value": "sha256-C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE="
         }
       ]
     },
     {
-      "Route": "razor-pages-project.u3455yo0md.bundle.scp.css",
+      "Route": "razor-pages-project.dacjab7oab.bundle.scp.css",
       "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\razor-pages-project.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21633,7 +21496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "212"
         },
         {
           "Name": "Content-Type",
@@ -21641,11 +21504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=\""
+          "Value": "\"C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21655,7 +21518,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u3455yo0md"
+          "Value": "dacjab7oab"
         },
         {
           "Name": "label",
@@ -21663,13 +21526,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c="
+          "Value": "sha256-C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE="
         }
       ]
     },
     {
-      "Route": "razor-pages-project.u3455yo0md.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-u3455yo0md.gz",
+      "Route": "razor-pages-project.dacjab7oab.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\musaayp9hf-dacjab7oab.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21678,7 +21541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "170"
         },
         {
           "Name": "Content-Type",
@@ -21686,11 +21549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=\""
+          "Value": "\"kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21708,7 +21571,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u3455yo0md"
+          "Value": "dacjab7oab"
         },
         {
           "Name": "label",
@@ -21716,18 +21579,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg="
+          "Value": "sha256-kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E="
         }
       ]
     },
     {
-      "Route": "razor-pages-project.u3455yo0md.styles.css",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-u3455yo0md.gz",
+      "Route": "razor-pages-project.dacjab7oab.styles.css",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-dacjab7oab.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.005847953216"
         }
       ],
       "ResponseHeaders": [
@@ -21737,15 +21600,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "170"
         },
         {
           "Name": "ETag",
-          "Value": "\"p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=\""
+          "Value": "\"kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21765,13 +21628,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=\""
+          "Value": "W/\"C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u3455yo0md"
+          "Value": "dacjab7oab"
         },
         {
           "Name": "label",
@@ -21779,12 +21642,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c="
+          "Value": "sha256-C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE="
         }
       ]
     },
     {
-      "Route": "razor-pages-project.u3455yo0md.styles.css",
+      "Route": "razor-pages-project.dacjab7oab.styles.css",
       "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\bundle\\razor-pages-project.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21794,7 +21657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "212"
         },
         {
           "Name": "Content-Type",
@@ -21802,11 +21665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c=\""
+          "Value": "\"C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21816,7 +21679,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u3455yo0md"
+          "Value": "dacjab7oab"
         },
         {
           "Name": "label",
@@ -21824,13 +21687,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9u4Oq/d4IoiyeG6PrQQdbs/mH0M/kGwQeom3A+Jyg1c="
+          "Value": "sha256-C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE="
         }
       ]
     },
     {
-      "Route": "razor-pages-project.u3455yo0md.styles.css.gz",
-      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-u3455yo0md.gz",
+      "Route": "razor-pages-project.dacjab7oab.styles.css.gz",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-dacjab7oab.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21839,7 +21702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "170"
         },
         {
           "Name": "Content-Type",
@@ -21847,11 +21710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg=\""
+          "Value": "\"kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 22:07:41 GMT"
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21869,7 +21732,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u3455yo0md"
+          "Value": "dacjab7oab"
         },
         {
           "Name": "label",
@@ -21877,7 +21740,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-p4fEvmTvqHmEhM3PM2NRGi3F5S/+ry5wy8bXyHGujtg="
+          "Value": "sha256-kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E="
+        }
+      ]
+    },
+    {
+      "Route": "razor-pages-project.styles.css",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-dacjab7oab.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005847953216"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE="
+        }
+      ]
+    },
+    {
+      "Route": "razor-pages-project.styles.css",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\scopedcss\\bundle\\razor-pages-project.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3UHSAIxro2i/9fGjtLVtc9tD3fdlGrEbVFLuERGgoE="
+        }
+      ]
+    },
+    {
+      "Route": "razor-pages-project.styles.css.gz",
+      "AssetFile": "C:\\Users\\mateu\\MAIN-Mateus\\projects\\razor-pages-project\\obj\\Debug\\net9.0\\compressed\\o6ww178807-dacjab7oab.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 22:29:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kBjJB11cPDs2uW7Edj5dW1TQua8RzaC3EqsPngMri9E="
         }
       ]
     }

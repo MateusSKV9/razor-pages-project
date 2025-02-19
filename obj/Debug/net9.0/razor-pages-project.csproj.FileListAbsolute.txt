@@ -17,7 +17,6 @@ C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\razor-p
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\scopedcss\bundle\razor-pages-project.styles.css
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\scopedcss\projectbundle\razor-pages-project.bundle.scp.css
-C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\47cb0wpdja-b9sayid5wm.gz
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\uod1b9e8u1-61n19gt1b8.gz
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\r3vayvekek-xtxxf3hu2r.gz
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\8d62kuzhk7-bqjiyaj88i.gz
@@ -79,8 +78,6 @@ C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compres
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\5vzdgxz4cm-muycvpuwrr.gz
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\d75mlw29s3-87fc7y1x7t.gz
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\4ghrj6hzsi-mlv21k5csn.gz
-C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\o6ww178807-u3455yo0md.gz
-C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\musaayp9hf-u3455yo0md.gz
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -95,3 +92,6 @@ C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\refint\
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\razor-pages-project.pdb
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\razor-pages-project.genruntimeconfig.cache
 C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\ref\razor-pages-project.dll
+C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\47cb0wpdja-6un8bgitbs.gz
+C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\o6ww178807-dacjab7oab.gz
+C:\Users\mateu\MAIN-Mateus\projects\razor-pages-project\obj\Debug\net9.0\compressed\musaayp9hf-dacjab7oab.gz
